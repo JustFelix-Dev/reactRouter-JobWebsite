@@ -1,4 +1,4 @@
-import { Form, redirect, useActionData } from "react-router-dom";
+import { Form, redirect , useActionData } from "react-router-dom";
 
 const Contact = () => {
     const data = useActionData()
@@ -34,9 +34,10 @@ export const contactAction = async ({ request })=>{
 
      if(submission.message.length < 10){
         return {error:'Your message is not up to 10 characters.'}
+     }else{
+         console.log(submission)
+          return redirect('/')
      }
-     console.log(submission)
-      return redirect('/')
 }
 
 export default Contact;
