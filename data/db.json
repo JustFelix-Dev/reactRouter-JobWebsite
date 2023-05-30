@@ -1,0 +1,55 @@
+{
+    "careers":[
+        {
+            "id": 1,
+            "title": "Senior Java Engineer",
+            "salary": 90000,
+            "location":"Ontario, Canada"
+    
+        },
+        {
+            "id": 2,
+            "title": "FullStack React Developer",
+            "salary": 60000,
+            "location":"London, UK"
+    
+        },
+        {
+            "id": 3,
+            "title": "Studio Manager",
+            "salary": 30000,
+            "location":"Berlin, Germany"
+    
+        },
+        {
+            "id": 4,
+            "title": "Angular Developer",
+            "salary": 70000,
+            "location":"New York, USA"
+    
+        },
+        {
+            "id": 5,
+            "title": "Product Manager",
+            "salary": 100000,
+            "location":"Toronto, Canada"
+    
+        },
+        {
+            "id": 6,
+            "title": "Network Administration Engineer",
+            "salary": 60000,
+            "location":"Shanghai, China"
+    
+        },
+        {
+            "id": 7,
+            "title": "Digital Marketer",
+            "salary": 30000,
+            "location":"Liverpool, UK"
+    
+        }
+    ]
+}
+   
+
