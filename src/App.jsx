@@ -9,7 +9,7 @@ import {
        } from 'react-router-dom'
 import Home from './pages/Home'
 import About from './pages/About'
-import RootLayout from './layouts/rootLayout'
+import RootLayout from './layouts/RootLayout'
 import HelpLayout from './layouts/HelpLayout'
 import Faq from './pages/help/faq'
 import Contact, { contactAction } from './pages/help/contact'
